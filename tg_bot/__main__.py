@@ -31,12 +31,11 @@ PM_START_TEXT = """
 Hello    {}, My Name Is {} !
 
 I Am A Group Manager Bot Maintained By [This Person](tg://user?id={}).
-
 I am a group management bot With Some Special Features.
-To add me to your group click ["HERE"](t.me/DRAGON_XDBOT?startgroup=botstart)
+To add me to your group click ["HERE"](t.me/DRAGON_XD?startgroup=botstart)
 You can find my list of available commands with /help.
  
-See [Basic Configuration Checklist](t.me/Anienews/3) on how to secure your group.
+See [Basic Configuration Checklist](t.me/dragonxdNews/3) on how to secure your group.
 The support group chat is at @dragonxdgroup. Support Channel @dragonxdNews
 
 
