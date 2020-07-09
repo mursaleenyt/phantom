@@ -9,7 +9,7 @@ GENERATED FROM [THIS REPOSITORY](https://github.com/AnimeKaizoku/SaitamaRobot)
 
 
 
-[![dragon_xd](https://imgur.com/gallery/ySZ9aFv)]
+
 
 
 
